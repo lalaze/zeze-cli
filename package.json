@@ -1,0 +1,25 @@
+{
+  "name": "zeze-cli",
+  "version": "1.0.0",
+  "description": "玩具",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalaze/zeze-cli.git"
+  },
+  "author": "lalaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalaze/zeze-cli/issues"
+  },
+  "homepage": "https://github.com/lalaze/zeze-cli#readme",
+  "dependencies": {
+    "commander": "^8.3.0",
+    "ejs": "^3.1.6",
+    "inquirer": "^8.2.0"
+  }
+}
