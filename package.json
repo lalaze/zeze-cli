@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lalaze/zeze-cli#readme",
   "dependencies": {
+    "chalk": "^4.1.2",
     "commander": "^8.3.0",
     "ejs": "^3.1.6",
     "inquirer": "^8.2.0"
